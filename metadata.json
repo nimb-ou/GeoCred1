@@ -1,0 +1,11 @@
+{
+  "name": "Remix: GeoFinance AI",
+  "description": "Geospatial intelligence platform for banks and SMEs, providing AI-driven site selection, risk analysis, and portfolio optimization using Google Geo data.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "ai_intelligence",
+    "geospatial_analysis"
+  ]
+}
